@@ -1,2 +1,3 @@
 # 3D_Print_Opti.
 This project aims to optimize the 3D printing process using advanced machine learning algorithms.
+One of the significant challenges in 3D printing is the time-consuming trial-and-error process required to determine optimal printing parameters such as temperature and pressure. This often results in wasted time, resources, and materials. By utilizing actual 3D printing data and images, this project employs eight distinct machine-learning algorithms to predict optimal printing parameters. The goal is to reduce the dependency on extensive trial-and-error by recommending these parameters directly, thus saving significant time and resources. Users can achieve higher efficiency and reduced material waste by relying on these predictive algorithms.
