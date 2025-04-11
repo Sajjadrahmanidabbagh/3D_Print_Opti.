@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Created on Tue Jan  4 22:25:25 2022
 @author: Sajjad
