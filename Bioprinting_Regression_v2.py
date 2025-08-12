@@ -2,7 +2,6 @@
 Created on Tue Jan 4 2022
 @author: Sajjad
 """
-
 # %% Importing modules 
 
 import pandas as pd
