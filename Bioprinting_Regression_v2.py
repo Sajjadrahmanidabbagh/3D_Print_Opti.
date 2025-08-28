@@ -2,7 +2,7 @@
 Created on Tue Jan 4 2022
 @author: Sajjad
 """
-# %% Importing modules 
+# Importing modules 
 
 import pandas as pd
 import numpy as np
