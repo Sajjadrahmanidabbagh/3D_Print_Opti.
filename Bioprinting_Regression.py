@@ -1,4 +1,4 @@
-# Code by Sajjad 2021
+# Code by Sajjad - 2021
 
 #connect to drive
 from google.colab import drive
